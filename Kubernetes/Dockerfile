@@ -2,5 +2,5 @@ FROM tomcat:latest
 
 MAINTAINER Amit Kumar Gupta
 
-COPY ./webapp.war /usr/local/tomcat/webapps
+COPY ./webapp1.war /usr/local/tomcat/webapps
 
