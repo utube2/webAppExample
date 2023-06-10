@@ -2,5 +2,5 @@
 localhost
 
 [kubernetes]
-43.205.243.6
+ubuntu@43.205.243.6
 #<kubernetes Public IP>
