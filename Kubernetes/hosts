@@ -2,5 +2,5 @@
 localhost
 
 [kubernetes]
-ubuntu@43.205.243.6
+test-gcp@35.231.203.95
 #<kubernetes Public IP>
